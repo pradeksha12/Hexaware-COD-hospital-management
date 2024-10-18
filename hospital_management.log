@@ -1,0 +1,10 @@
+2024-10-18 10:23:18 - ERROR - Error scheduling appointment: 'DATABASE'
+2024-10-18 10:35:59 - INFO - Scheduled appointment: Appointment ID: 12, Patient ID: 8, Doctor ID: 1, Date: 2024-10-18, Description: Heartbeat is high
+2024-10-18 10:36:24 - INFO - Updated appointment: Appointment ID: 4, Patient ID: 6, Doctor ID: 3, Date: 2024-10-20, Description: LEg pain
+2024-10-18 10:36:37 - INFO - Cancelled appointment with ID: 10
+2024-10-18 10:36:48 - INFO - Retrieved appointment: (3, 3, 3, datetime.datetime(2024, 10, 27, 9, 30), 'Fracture consultation')
+2024-10-18 10:36:54 - INFO - Retrieved 1 appointments for patient ID 5
+2024-10-18 10:37:04 - INFO - Retrieved 2 appointments for doctor ID 1
+2024-10-18 10:40:52 - INFO - Retrieved 2 appointments for doctor ID 1
+2024-10-18 10:46:27 - INFO - Cancelled appointment with ID: 4
+2024-10-18 10:50:19 - INFO - Retrieved 0 appointments for patient ID 80
